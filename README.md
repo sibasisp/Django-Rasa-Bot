@@ -3,11 +3,15 @@
 
 # Install Dependencies
 pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.10.0-py2-none-any.whl
+
 pip install rasa-core
+
 pip install rasa-nlu
 
 pip install django
+
 pip install django-decouple
+
 pip install django-cors-headers
 
 # Django-Rasa-BotUI
